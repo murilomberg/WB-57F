@@ -1,0 +1,38 @@
+# Ignore node_modules or other dependencies
+node_modules/
+npm-debug.log
+
+# Ignore build files and generated assets
+build/
+bin/
+exports/
+.idea/
+
+# Ignore editor-specific settings
+.editorconfig
+
+# Ignore user-specific files or project settings
+.project
+.settings/
+sftp-config.json
+
+# Ignore compiled game files or exports
+*.js
+*.min.js
+*.html
+*.css
+*.json
+*.xml
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp3
+*.ogg
+*.wav
+*.ttf
+*.woff
+*.woff2
+
+# Ignore any local or user-specific config files
+config.js
