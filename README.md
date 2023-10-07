@@ -13,7 +13,7 @@ This project is a collaborative effort by a team of 5 passionate individuals, ea
 - Murilo Marçon Bergamaschi (https://github.com/murilomberg)
 - Maria (https://github.com/SemOlhos)
 - Livia Quitera (https://github.com/bigboss)
-- Pablo (https://github.com/)
+- Pablo (https://github.com/Ichiiox)
 - Monique Brandão (https://github.com/MohBrandao)
 
 ## Features
