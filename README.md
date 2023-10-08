@@ -14,7 +14,6 @@ This project is a collaborative effort by a team of 5 passionate individuals, ea
 - Maria (https://github.com/SemOlhos)
 - Livia Quitera (https://github.com/bigboss)
 - Pablo (https://github.com/Ichiiox)
-- Monique Brandão (https://github.com/MohBrandao)
 
 ## Features
 
@@ -26,8 +25,7 @@ This project is a collaborative effort by a team of 5 passionate individuals, ea
 
 ## Technologies Used
 
-- ???
-- ???
+- https://gdevelop.io/
 
 ## Getting Started
 
@@ -40,8 +38,7 @@ Follow these steps to get a local copy of the project up and running:
 
 ## Additional setup instructions, if necessary
 
-1. Run the development server: ????
-2. Open your web browser and visit http://localhost:3000 to play the game. ????
+1. Access the game: URL <<---
 
 ## Acknowledgments
 
