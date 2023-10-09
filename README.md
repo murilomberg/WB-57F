@@ -38,8 +38,14 @@ Follow these steps to get a local copy of the project up and running:
 
 ## Additional setup instructions, if necessary
 
-1. Access the game: URL <<---
-
+- Access the game: https://scratch.mit.edu/projects/904976762
+- Game fluxos: https://miro.com/app/board/uXjVNdeVnU0=/?share_link_id=966473704773
+- Data:
+     https://eclipse.gsfc.nasa.gov/solar.html
+     https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade2011.html
+     https://science.nasa.gov/eclipses/
+     https://science.nasa.gov/eclipses/nasa-research/
+   
 ## Acknowledgments
 
 We'd like to express our gratitude to NASA and the open-source community for their support and inspiration.  
